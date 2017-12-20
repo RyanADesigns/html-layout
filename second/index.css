@@ -1,0 +1,75 @@
+body {
+  
+}
+
+section {
+  width: 90%;
+  height: 30vh;
+  margin: 5rem auto;
+}
+
+.section1 {
+  border: 1rem solid 
+  
+}
+
+.shape {
+  display: inline-block;
+}
+.purpleDiv {
+  background-color: #8A2BE2;
+  height: 70%;
+  width: 14rem;
+  margin: 12rem 3rem 0rem 2rem;
+  margin:
+}
+
+.greenDiv {
+  background-color: #228B22;
+  width: 37%;
+  height: 85%;
+  margin-right: 10rem; 
+   margin-left: 10rem; 
+}
+
+.blueCircle {
+  width: 40rem;
+  height: 40rem;
+  border-radius: 100%;
+  background-color: #87CEEB;
+  
+  
+}
+
+
+.section2 {
+  border: 1rem dotted;
+}
+
+.tanDiv {
+  width: 80%;
+  margin:8rem  auto;
+  height: 30rem;
+  box-shadow: 3rem 3rem 5rem black;
+  background-color: #FFFACD;
+}
+
+
+.section3 {
+  /*temporary border for development*/
+  border: 10px solid;
+}
+
+.helloDiv {
+  font-size: 10rem;
+  margin: 25rem auto;
+  box-sizing: border-box;
+  width: 45%;
+  border: 1px solid #ccc;
+  background-color: white;
+  padding-top: 30rem;
+  padding-bottom: 30rem;
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+}
